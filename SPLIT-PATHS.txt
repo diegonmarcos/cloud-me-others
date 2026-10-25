@@ -1,8 +1,0 @@
-b_MyData/my-fin
-b_MyData/myTrackers
-b_MyData/myhealth
-b_MyData/myhealth-profile
-b_MyData/myhealth-tracker
-b_MyData/myid
-b_MyData/mymaps-mytrips
-b_MyData/myphotos
