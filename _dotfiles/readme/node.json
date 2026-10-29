@@ -1,0 +1,83 @@
+{
+  "schema": "readme-node/v1",
+  "generated_by": "_git-repos-master readme-render.js nodeData() from projects-repos.json; DO NOT EDIT (node repos-sot.js sync-readmes)",
+  "name": "cloud-me-pub-shared",
+  "label": "cloud-me-pub-shared",
+  "code": "1.2.1.2.1",
+  "kind": "repo",
+  "description": "Front group b_MyData (split from front-projects, #1072)",
+  "visibility": "public",
+  "url": "https://github.com/diegonmarcos/cloud-me-pub-shared",
+  "developer": "Leaf.y",
+  "farm": "1.2.Cloud-me/Pub",
+  "breadcrumb": [
+    {
+      "code": "1",
+      "kind": "area",
+      "label": "Unix",
+      "icon": "🐧"
+    },
+    {
+      "code": "1.2",
+      "kind": "project",
+      "label": "Cloud-Me",
+      "icon": "🙋"
+    },
+    {
+      "code": "1.2.1",
+      "kind": "subcategory",
+      "label": "Pub",
+      "icon": ""
+    },
+    {
+      "code": "1.2.1.2",
+      "kind": "family",
+      "label": "Shared",
+      "icon": ""
+    }
+  ],
+  "hub": {
+    "name": "cloud-me-pub-___",
+    "code": "1.2.1.0",
+    "url": "https://github.com/diegonmarcos/cloud-me-pub-___"
+  },
+  "base_dir": "git",
+  "members": [],
+  "tree": [
+    "├── 0_deployer (submodule)",
+    "├── 0_hub/",
+    "│   └── cloud-me-pub-___ (submodule)",
+    "└── b_MyData/",
+    "    ├── my-fin/",
+    "    │   ├── dist/",
+    "    │   └── src/",
+    "    ├── myhealth/",
+    "    │   ├── dist/",
+    "    │   └── src/",
+    "    ├── myhealth-profile/",
+    "    │   ├── 0.spec/",
+    "    │   ├── dist/",
+    "    │   ├── public/",
+    "    │   └── src/",
+    "    ├── myhealth-tracker/",
+    "    │   ├── dist/",
+    "    │   └── src/",
+    "    ├── myid/",
+    "    │   ├── 0.spec/",
+    "    │   ├── dist/",
+    "    │   ├── public/",
+    "    │   └── src/",
+    "    ├── mymaps-mytrips/",
+    "    │   ├── 0.spec/",
+    "    │   ├── dist/",
+    "    │   ├── public/",
+    "    │   └── src/",
+    "    ├── myphotos/",
+    "    │   ├── 1.ops/",
+    "    │   ├── dist/",
+    "    │   └── src/",
+    "    └── myTrackers/",
+    "        ├── dist/",
+    "        └── src/"
+  ]
+}
