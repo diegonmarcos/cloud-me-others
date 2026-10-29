@@ -5,6 +5,7 @@
   "label": "cloud-me-pub-shared",
   "code": "1.2.1.2.1",
   "kind": "repo",
+  "variant": "repo",
   "description": "Front group b_MyData (split from front-projects, #1072)",
   "visibility": "public",
   "url": "https://github.com/diegonmarcos/cloud-me-pub-shared",
